@@ -14,6 +14,11 @@
 + Vipergpt: Visual inference via python execution for reasoning, ICCV 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Suris_ViperGPT_Visual_Inference_via_Python_Execution_for_Reasoning_ICCV_2023_paper.pdf) 
 ### Video Understanding
 + VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.11481) [[Code]](https://videoagent.github.io/)
++ VideoAgent: Long-form Video Understanding with Large Language Model as Agent, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.10517) [[Code]](https://github.com/wxh1996/VideoAgent)
 + DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent), ICML 2024. [[Paper]](https://arxiv.org/pdf/2401.08392)
++ InternVideo2: Scaling Foundation Models for Multimodal Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.15377) [[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
++ InternVideo: General Video Foundation Models via Generative and Discriminative Learning, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2212.03191) [[Code]](https://github.com/OpenGVLab/InternVideo)
++ ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2304.14407) [[Code]](https://www.wangjunke.info/ChatVideo/)
++ AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2306.08640) [[Code]](https://github.com/showlab/assistgpt)
 ### Image&Video Understanding
 + Chat-univi: Unified visual representation empowers large language models with image and video understanding, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_Chat-UniVi_Unified_Visual_Representation_Empowers_Large_Language_Models_with_Image_CVPR_2024_paper.pdf) [[Code]](https://github.com/PKU-YuanGroup/Chat-UniVi)
