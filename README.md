@@ -15,6 +15,7 @@
 ### Video Understanding
 + VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.11481) [[Code]](https://videoagent.github.io/)
 + VideoAgent: Long-form Video Understanding with Large Language Model as Agent, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.10517) [[Code]](https://github.com/wxh1996/VideoAgent)
++ VideoChat: Chat-Centric Video Understanding, CVPR 2024. [[Paper]](https://arxiv.org/pdf/2305.06355) [[Code]](https://github.com/OpenGVLab/Ask-Anything)
 + DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent), ICML 2024. [[Paper]](https://arxiv.org/pdf/2401.08392)
 + InternVideo2: Scaling Foundation Models for Multimodal Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.15377) [[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
 + InternVideo: General Video Foundation Models via Generative and Discriminative Learning, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2212.03191) [[Code]](https://github.com/OpenGVLab/InternVideo)
