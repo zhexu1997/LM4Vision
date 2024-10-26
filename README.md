@@ -15,6 +15,7 @@
 + Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/871ed095b734818cfba48db6aeb25a62-Paper-Conference.pdf) [[Code]](https://chameleon-llm.github.io/)
 + Visual Instruction Tuning, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf) [[Code]](https://llava-vl.github.io/)
 + Vipergpt: Visual inference via python execution for reasoning, ICCV 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Suris_ViperGPT_Visual_Inference_via_Python_Execution_for_Reasoning_ICCV_2023_paper.pdf)  [[Code]](https://github.com/cvlab-columbia/viper)
++ Visual programming: Compositional visual reasoning without training, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf) [[Code]](https://prior.allenai.org/projects/visprog)
 ### Video Understanding
 + DrVideo: Document Retrieval Based Long Video Understanding, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2406.12846) 
 + VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.11481) [[Code]](https://videoagent.github.io/)
