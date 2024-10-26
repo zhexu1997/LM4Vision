@@ -9,6 +9,8 @@
 ## Papers
 ### Image Understanding
 + Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Khan_Self-Training_Large_Language_Models_for_Improved_Visual_Program_Synthesis_With_CVPR_2024_paper.pdf) [[Code]](https://zaidkhan.me/ViReP/)
++ PixelLM: Pixel Reasoning with Large Multimodal Model, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_PixelLM_Pixel_Reasoning_with_Large_Multimodal_Model_CVPR_2024_paper.pdf) [[Code]](https://pixellm.github.io/)
++ Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xuan_Pink_Unveiling_the_Power_of_Referential_Comprehension_for_Multi-modal_LLMs_CVPR_2024_paper.pdf) [[Code]](https://github.com/SY-Xuan/Pink)
 + Large Language Models are Visual Reasoning Coordinators, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ddfe6bae7b869e819f842753009b94ad-Paper-Conference.pdf) [[Code]](https://github.com/cliangyu/Cola)
 + Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/871ed095b734818cfba48db6aeb25a62-Paper-Conference.pdf) [[Code]](https://chameleon-llm.github.io/)
 + Visual Instruction Tuning, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf) [[Code]](https://llava-vl.github.io/)
@@ -21,6 +23,7 @@
 + DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent), ICML 2024. [[Paper]](https://arxiv.org/pdf/2401.08392) [[Code]](https://github.com/z-x-yang/DoraemonGPT)
 + InternVideo2: Scaling Foundation Models for Multimodal Video Understanding, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.15377) [[Code]](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
 + InternVideo: General Video Foundation Models via Generative and Discriminative Learning, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2212.03191) [[Code]](https://github.com/OpenGVLab/InternVideo)
++ VTimeLLM: Empower LLM to Grasp Video Moments, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VTimeLLM_Empower_LLM_to_Grasp_Video_Moments_CVPR_2024_paper.pdf) [[Code]](https://github.com/huangb23/VTimeLLM)
 + ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2304.14407) [[Code]](https://www.wangjunke.info/ChatVideo/)
 + AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2306.08640) [[Code]](https://github.com/showlab/assistgpt)
 ### Image&Video Understanding
