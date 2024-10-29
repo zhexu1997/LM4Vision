@@ -6,6 +6,8 @@
 + A survey on large language model based autonomous agents, Frontiers of Computer Science 2024. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf)
 + A comprehensive overview of large language models, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2307.06435)
 + Towards Data-and Knowledge-Driven AI: A Survey on Neuro-Symbolic Computing, TPAMI 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10721277&casa_token=_uyrw_egIvoAAAAA:j2nu6aF-UeP9b93aQppDGlucteehGyN-ow0B0O8YRuOMVIIAOzENJmevPBeluy956pesmFzN_Q&tag=1)
++ A review on large Language Models: Architectures, applications, taxonomies, open issues and challenges, Access 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10433480)
++ Large Language Model based Multi-Agents: A Survey of Progress and Challenges, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2402.01680)
 ## Papers
 ### Image Understanding
 + Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Khan_Self-Training_Large_Language_Models_for_Improved_Visual_Program_Synthesis_With_CVPR_2024_paper.pdf) [[Code]](https://zaidkhan.me/ViReP/)
