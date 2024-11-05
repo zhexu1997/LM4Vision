@@ -3,6 +3,7 @@
 ## Surveys
 + Towards Rationality in Language and Multimodal Agents: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2406.00252) [[Project]](https://github.com/bowen-upenn/Agent_Rationality)
 + Large Multimodal Agents: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2402.15116) [[Project]](https://github.com/jun0wanan/awesome-large-multimodal-agents)
++ Large Language Models on Graphs: A Comprehensive Survey, TKDE 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10697304&casa_token=naDG0JEQSlwAAAAA:0oLETJgnMk59KDDZy4vVH5uK7-MuLn0y-mJ9ZPqZBu1d1TqRU6sfXImNn5OZ9c6WzL8egHrBoPgt) [[Project]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 + A survey on large language model based autonomous agents, Frontiers of Computer Science 2024. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf)
 + A comprehensive overview of large language models, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2307.06435)
 + Towards Data-and Knowledge-Driven AI: A Survey on Neuro-Symbolic Computing, TPAMI 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10721277&casa_token=_uyrw_egIvoAAAAA:j2nu6aF-UeP9b93aQppDGlucteehGyN-ow0B0O8YRuOMVIIAOzENJmevPBeluy956pesmFzN_Q&tag=1)
